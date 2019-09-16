@@ -1,0 +1,6 @@
+.visible {
+    color: red;
+}
+.nonvisible {
+    display: none;
+}
